@@ -10,4 +10,4 @@ The parts used in this self balancing robot are:
 
 ## schmatics
 
-<img width="1220" height="625" alt="image" src="https://github.com/user-attachments/assets/d4d960d9-a9ad-4ea2-9ec7-ac838fd4c2ce" />
+<img width="1482" height="797" alt="image" src="https://github.com/user-attachments/assets/0a21c9de-ba5e-475a-80b0-0d378f5a804e" />
